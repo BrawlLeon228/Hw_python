@@ -5,7 +5,7 @@ import telebot
 from config import BOT_TOKEN
 from telebot import types
 
-bot = telebot.TeleBot(BOT_TOKEN)
+bot = telebot.TeleBot('5732510569:AAH8NWC7vJbW9wdmK16xp_DYMxfbw0ei4XQ')
 #@IntermediateCertificationBot - Имя бота
 
 
